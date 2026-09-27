@@ -19,3 +19,25 @@
 ## প্র্যাকটিস:
 print("Hello, Python!")
 print("My name is Muttakin")
+
+# Day 1: Python Installation & VS Code Setup
+
+## ১. পাইথন কী?
+- হাই-লেভেল, ইন্টারপ্রেটেড, জেনারেল-পারপাস ভাষা
+- তৈরি: Guido van Rossum, ১৯৯১
+- সহজ সিনট্যাক্স, বিশাল লাইব্রেরি
+
+## ২. কেন পাইথন?
+- নতুনদের জন্য সহজ
+- Web, AI, ML, Automation সবই করা যায়
+- চাহিদা ও বেতন বেশি
+
+## ৩. যা যা ইনস্টল করলাম:
+- Python 3.13 (python.org থেকে)
+- VS Code (code.visualstudio.com থেকে)
+- VS Code Extensions: Python, Code Runner
+- ⚠️ Python ইনস্টল করার সময় "Add to PATH" টিক দিয়েছি
+
+## ৪. প্রথম প্রোগ্রাম:
+```python
+print("Hello, Python!")
